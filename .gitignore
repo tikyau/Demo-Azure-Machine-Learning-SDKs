@@ -1,3 +1,5 @@
-# Ignore data pickle file
-
+# original data pickle file
 data/data_after_prep.pkl
+
+# notebook checkpoint
+.ipynb_checkpoints/
