@@ -1,5 +1,7 @@
-# original data pickle file
+# original data
 data/data_after_prep.pkl
+data/*.csv
+
 
 # notebook checkpoint
 .ipynb_checkpoints/
