@@ -1,6 +1,6 @@
 # Demo for new Azure Machine Learning SDKs
 
-The purpose of this demo is to test the APIs and features provided by the new Azure Machine Learning SDKs (internal preview version) :
+The purpose of this demo is to test the APIs and features provided by the new Azure Machine Learning SDKs :
 
 ### 1. Azure Machine Learning SDK for Python
 
